@@ -1,5 +1,5 @@
 # hello-world
-This repository will story ideas, resources, etc. 
+This repository will store ideas, resources, etc. 
 
 Hello World,
 
